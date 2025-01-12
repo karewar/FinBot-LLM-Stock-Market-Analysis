@@ -1,0 +1,13 @@
+huggingface_hub==0.25.2
+yfinance
+transformers
+pandas
+pandas-ta
+ta
+textblob
+aiohttp
+python-dotenv
+newsapi-python
+gradio
+torch
+groq
